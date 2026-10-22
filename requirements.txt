@@ -1,0 +1,6 @@
+-r https://github.com/404-Repo/404-gen-subnet/releases/download/miner-runtime-v0.1.5/sdk-requirements.txt
+httpx==0.28.1
+openai==3.29.0
+pydantic==2.14.1
+numpy==2.5.4
+pillow==13.0.0
